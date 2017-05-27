@@ -1,4 +1,4 @@
-define(['forge'], (forge) => {
+define(['forge', 'wgfetch'], (forge) => {
   // A promise to return the server's public key.
   // This prevents us from asking for the server's
   // public key each subsequent encrypted request.
