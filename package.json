@@ -1,0 +1,29 @@
+{
+  "name": "node_crypto_test",
+  "version": "1.0.0",
+  "description": "Coding Exercise for Pingup",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/millayr/node_crypto_test.git"
+  },
+  "author": "Ryan Millay (ryan.p.millay@gmail.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/millayr/node_crypto_test/issues"
+  },
+  "homepage": "https://github.com/millayr/node_crypto_test#readme",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "jquery": "^3.2.1",
+    "node-forge": "^0.7.1",
+    "path": "^0.12.7",
+    "requirejs": "^2.3.3",
+    "whatwg-fetch": "^2.0.3"
+  }
+}
